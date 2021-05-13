@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+    border-bottom: circle 5px;
+}
+.text1{
+    text-align: center;
+    text-decoration: dotted;
+    background-color: beige;
+}
+.form1{
+    margin-top: auto;
+}
+.heading1{
+    background-color: green;
+    text-decoration-color: aliceblue;
+    border-radius: 5px;
+    font-size:xx-large;
+}
+.form-control{
+    border:none;
+    border-bottom: 3px solid black;
+    border-radius:0px ;
+    box-shadow: none;
+    background-color: transparent;
+    
+}
